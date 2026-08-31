@@ -1,7 +1,7 @@
 # dplyr ------------------------------------------------------------------------
 #' @export
-#' @importFrom dplyr %>%
-dplyr::`%>%`
+#' @importFrom magrittr %>%
+magrittr::`%>%`
 
 #' @importFrom dplyr vars
 #' @export

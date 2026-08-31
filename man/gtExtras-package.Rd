@@ -22,6 +22,11 @@ Useful links:
 \author{
 \strong{Maintainer}: Thomas Mock \email{j.thomasmock@gmail.com} [copyright holder]
 
+Authors:
+\itemize{
+  \item Thomas Mock \email{j.thomasmock@gmail.com} [copyright holder]
+}
+
 Other contributors:
 \itemize{
   \item Daniel D. Sjoberg \email{danield.sjoberg@gmail.com} (\href{https://orcid.org/0000-0003-0862-2018}{ORCID}) [contributor]

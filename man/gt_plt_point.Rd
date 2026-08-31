@@ -47,7 +47,7 @@ alternative for a bar plot. Accepts any range of values, as opposed to
 
 \section{Figures}{
 
-\if{html}{\figure{gt_plt_point.png}{options: style="width=30\%;"}}
+\if{html}{\figure{gt_plt_point.png}{options: style="width:500px;"}}
 }
 
 \section{Function ID}{
@@ -56,13 +56,13 @@ alternative for a bar plot. Accepts any range of values, as opposed to
 }
 
 \seealso{
-Other Plotting: 
-\code{\link{gt_plt_bar}()},
-\code{\link{gt_plt_bar_pct}()},
-\code{\link{gt_plt_bar_stack}()},
-\code{\link{gt_plt_dist}()},
-\code{\link{gt_plt_percentile}()},
-\code{\link{gt_plt_sparkline}()},
-\code{\link{gt_plt_winloss}()}
+Other Plotting:
+\code{\link[=gt_plt_bar]{gt_plt_bar()}},
+\code{\link[=gt_plt_bar_pct]{gt_plt_bar_pct()}},
+\code{\link[=gt_plt_bar_stack]{gt_plt_bar_stack()}},
+\code{\link[=gt_plt_dist]{gt_plt_dist()}},
+\code{\link[=gt_plt_percentile]{gt_plt_percentile()}},
+\code{\link[=gt_plt_sparkline]{gt_plt_sparkline()}},
+\code{\link[=gt_plt_winloss]{gt_plt_winloss()}}
 }
 \concept{Plotting}

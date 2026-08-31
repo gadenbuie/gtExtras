@@ -92,13 +92,13 @@ is simpler than \code{data_color()}.
 
 \section{Figures}{
 
-\if{html}{\figure{basic-pal.png}{options: style="width=100\%;"}}
+\if{html}{\figure{basic-pal.png}{options: style="width:500px;"}}
 
-\if{html}{\figure{blue-pal.png}{options: style="width=100\%;"}}
+\if{html}{\figure{blue-pal.png}{options: style="width:500px;"}}
 
-\if{html}{\figure{custom-pal.png}{options: style="width=100\%;"}}
+\if{html}{\figure{custom-pal.png}{options: style="width:500px;"}}
 
-\if{html}{\figure{discrete-pal.png}{options: style="width=100\%;"}}
+\if{html}{\figure{discrete-pal.png}{options: style="width:500px;"}}
 }
 
 \section{Function ID}{
@@ -107,8 +107,8 @@ is simpler than \code{data_color()}.
 }
 
 \seealso{
-Other Colors: 
-\code{\link{gt_color_box}()},
-\code{\link{gt_hulk_col_numeric}()}
+Other Colors:
+\code{\link[=gt_color_box]{gt_color_box()}},
+\code{\link[=gt_hulk_col_numeric]{gt_hulk_col_numeric()}}
 }
 \concept{Colors}

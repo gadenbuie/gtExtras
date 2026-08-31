@@ -79,36 +79,42 @@ import(htmltools)
 import(paletteer)
 import(rlang)
 import(scales)
-importFrom(magrittr,"%>%")
-importFrom(dplyr,all_of)
-importFrom(dplyr,any_of)
-importFrom(dplyr,contains)
-importFrom(dplyr,ends_with)
-importFrom(dplyr,everything)
-importFrom(dplyr,last_col)
-importFrom(dplyr,matches)
-importFrom(dplyr,mutate)
-importFrom(dplyr,num_range)
-importFrom(dplyr,one_of)
-importFrom(dplyr,select)
-importFrom(dplyr,starts_with)
-importFrom(dplyr,vars)
+importFrom(dplyr,
+  all_of,
+  any_of,
+  contains,
+  ends_with,
+  everything,
+  last_col,
+  matches,
+  mutate,
+  num_range,
+  one_of,
+  select,
+  starts_with,
+  vars
+)
 importFrom(fontawesome,fa)
 importFrom(graphics,hist)
-importFrom(gt,"%>%")
 importFrom(htmltools,div)
 importFrom(knitr,include_graphics)
 importFrom(magrittr,"%>%")
 importFrom(paletteer,paletteer_d)
-importFrom(scales,col_numeric)
-importFrom(scales,cut_long_scale)
-importFrom(scales,expand_range)
-importFrom(scales,label_date)
-importFrom(scales,label_number)
-importFrom(scales,seq_gradient_pal)
-importFrom(stats,IQR)
-importFrom(stats,median)
-importFrom(stats,na.omit)
-importFrom(stats,sd)
-importFrom(utils,capture.output)
-importFrom(utils,packageVersion)
+importFrom(scales,
+  col_numeric,
+  cut_long_scale,
+  expand_range,
+  label_date,
+  label_number,
+  seq_gradient_pal
+)
+importFrom(stats,
+  IQR,
+  median,
+  na.omit,
+  sd
+)
+importFrom(utils,
+  capture.output,
+  packageVersion
+)

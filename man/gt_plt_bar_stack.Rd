@@ -75,17 +75,17 @@ ex_tab <- tab_df \%>\%
   gt_plt_bar_stack(column = list_data)
 }\if{html}{\out{</div>}}
 
-\if{html}{\figure{plt-bar-stack.png}{options: style="width=70\%;"}}
+\if{html}{\figure{plt-bar-stack.png}{options: style="width:500px;"}}
 }
 
 \seealso{
-Other Plotting: 
-\code{\link{gt_plt_bar}()},
-\code{\link{gt_plt_bar_pct}()},
-\code{\link{gt_plt_dist}()},
-\code{\link{gt_plt_percentile}()},
-\code{\link{gt_plt_point}()},
-\code{\link{gt_plt_sparkline}()},
-\code{\link{gt_plt_winloss}()}
+Other Plotting:
+\code{\link[=gt_plt_bar]{gt_plt_bar()}},
+\code{\link[=gt_plt_bar_pct]{gt_plt_bar_pct()}},
+\code{\link[=gt_plt_dist]{gt_plt_dist()}},
+\code{\link[=gt_plt_percentile]{gt_plt_percentile()}},
+\code{\link[=gt_plt_point]{gt_plt_point()}},
+\code{\link[=gt_plt_sparkline]{gt_plt_sparkline()}},
+\code{\link[=gt_plt_winloss]{gt_plt_winloss()}}
 }
 \concept{Plotting}

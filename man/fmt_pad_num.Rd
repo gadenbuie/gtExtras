@@ -26,7 +26,7 @@ to align at the decimal point.
 }
 \section{Figures}{
 
-\if{html}{\figure{fmt_pad_num.png}{options: style="width=20\%;"}}
+\if{html}{\figure{fmt_pad_num.png}{options: style="width:500px;"}}
 }
 
 \section{Function ID}{
@@ -43,31 +43,31 @@ padded_tab <- data.frame(numbers = c(1.2345, 12.345, 123.45, 1234.5, 12345)) \%>
 \seealso{
 \code{\link[=pad_fn]{pad_fn()}}
 
-Other Utilities: 
-\code{\link{add_text_img}()},
-\code{\link{fa_icon_repeat}()},
-\code{\link{fmt_pct_extra}()},
-\code{\link{fmt_symbol_first}()},
-\code{\link{generate_df}()},
-\code{\link{gt_add_divider}()},
-\code{\link{gt_badge}()},
-\code{\link{gt_double_table}()},
-\code{\link{gt_duplicate_column}()},
-\code{\link{gt_fa_rank_change}()},
-\code{\link{gt_fa_rating}()},
-\code{\link{gt_highlight_cols}()},
-\code{\link{gt_highlight_rows}()},
-\code{\link{gt_img_border}()},
-\code{\link{gt_img_circle}()},
-\code{\link{gt_img_multi_rows}()},
-\code{\link{gt_img_rows}()},
-\code{\link{gt_index}()},
-\code{\link{gt_merge_stack}()},
-\code{\link{gt_merge_stack_color}()},
-\code{\link{gt_two_column_layout}()},
-\code{\link{gtsave_extra}()},
-\code{\link{img_header}()},
-\code{\link{pad_fn}()},
-\code{\link{tab_style_by_grp}()}
+Other Utilities:
+\code{\link[=add_text_img]{add_text_img()}},
+\code{\link[=fa_icon_repeat]{fa_icon_repeat()}},
+\code{\link[=fmt_pct_extra]{fmt_pct_extra()}},
+\code{\link[=fmt_symbol_first]{fmt_symbol_first()}},
+\code{\link[=generate_df]{generate_df()}},
+\code{\link[=gt_add_divider]{gt_add_divider()}},
+\code{\link[=gt_badge]{gt_badge()}},
+\code{\link[=gt_double_table]{gt_double_table()}},
+\code{\link[=gt_duplicate_column]{gt_duplicate_column()}},
+\code{\link[=gt_fa_rank_change]{gt_fa_rank_change()}},
+\code{\link[=gt_fa_rating]{gt_fa_rating()}},
+\code{\link[=gt_highlight_cols]{gt_highlight_cols()}},
+\code{\link[=gt_highlight_rows]{gt_highlight_rows()}},
+\code{\link[=gt_img_border]{gt_img_border()}},
+\code{\link[=gt_img_circle]{gt_img_circle()}},
+\code{\link[=gt_img_multi_rows]{gt_img_multi_rows()}},
+\code{\link[=gt_img_rows]{gt_img_rows()}},
+\code{\link[=gt_index]{gt_index()}},
+\code{\link[=gt_merge_stack]{gt_merge_stack()}},
+\code{\link[=gt_merge_stack_color]{gt_merge_stack_color()}},
+\code{\link[=gt_two_column_layout]{gt_two_column_layout()}},
+\code{\link[=gtsave_extra]{gtsave_extra()}},
+\code{\link[=img_header]{img_header()}},
+\code{\link[=pad_fn]{pad_fn()}},
+\code{\link[=tab_style_by_grp]{tab_style_by_grp()}}
 }
 \concept{Utilities}

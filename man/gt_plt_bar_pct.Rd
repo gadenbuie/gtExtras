@@ -82,7 +82,7 @@ base_tab \%>\%
 
 \section{Figures}{
 
-\if{html}{\figure{gt_bar_plot.png}{options: width=100\%}}
+\if{html}{\figure{gt_bar_plot.png}{options: width:500px}}
 }
 
 \section{Function ID}{
@@ -91,13 +91,13 @@ base_tab \%>\%
 }
 
 \seealso{
-Other Plotting: 
-\code{\link{gt_plt_bar}()},
-\code{\link{gt_plt_bar_stack}()},
-\code{\link{gt_plt_dist}()},
-\code{\link{gt_plt_percentile}()},
-\code{\link{gt_plt_point}()},
-\code{\link{gt_plt_sparkline}()},
-\code{\link{gt_plt_winloss}()}
+Other Plotting:
+\code{\link[=gt_plt_bar]{gt_plt_bar()}},
+\code{\link[=gt_plt_bar_stack]{gt_plt_bar_stack()}},
+\code{\link[=gt_plt_dist]{gt_plt_dist()}},
+\code{\link[=gt_plt_percentile]{gt_plt_percentile()}},
+\code{\link[=gt_plt_point]{gt_plt_point()}},
+\code{\link[=gt_plt_sparkline]{gt_plt_sparkline()}},
+\code{\link[=gt_plt_winloss]{gt_plt_winloss()}}
 }
 \concept{Plotting}

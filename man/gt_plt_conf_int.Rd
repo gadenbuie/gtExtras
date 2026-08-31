@@ -78,8 +78,8 @@ pre_calc_ci_tab <- dplyr::tibble(
 
 \section{Figures}{
 
-\if{html}{\figure{gt_plt_ci_calc.png}{options: style="width=70\%;"}}
-\if{html}{\figure{gt_plt_ci_vals.png}{options: style="width=70\%;"}}
+\if{html}{\figure{gt_plt_ci_calc.png}{options: style="width:500px;"}}
+\if{html}{\figure{gt_plt_ci_vals.png}{options: style="width:500px;"}}
 }
 
 \section{Function ID}{
@@ -88,16 +88,16 @@ pre_calc_ci_tab <- dplyr::tibble(
 }
 
 \seealso{
-Other Themes: 
-\code{\link{gt_plt_bullet}()},
-\code{\link{gt_plt_dot}()},
-\code{\link{gt_theme_538}()},
-\code{\link{gt_theme_dark}()},
-\code{\link{gt_theme_dot_matrix}()},
-\code{\link{gt_theme_espn}()},
-\code{\link{gt_theme_excel}()},
-\code{\link{gt_theme_guardian}()},
-\code{\link{gt_theme_nytimes}()},
-\code{\link{gt_theme_pff}()}
+Other Themes:
+\code{\link[=gt_plt_bullet]{gt_plt_bullet()}},
+\code{\link[=gt_plt_dot]{gt_plt_dot()}},
+\code{\link[=gt_theme_538]{gt_theme_538()}},
+\code{\link[=gt_theme_dark]{gt_theme_dark()}},
+\code{\link[=gt_theme_dot_matrix]{gt_theme_dot_matrix()}},
+\code{\link[=gt_theme_espn]{gt_theme_espn()}},
+\code{\link[=gt_theme_excel]{gt_theme_excel()}},
+\code{\link[=gt_theme_guardian]{gt_theme_guardian()}},
+\code{\link[=gt_theme_nytimes]{gt_theme_nytimes()}},
+\code{\link[=gt_theme_pff]{gt_theme_pff()}}
 }
 \concept{Themes}

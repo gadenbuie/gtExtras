@@ -48,7 +48,7 @@ bullet_tab <- tibble::rownames_to_column(mtcars) \%>\%
  gt_theme_538()
 }\if{html}{\out{</div>}}
 
-\if{html}{\figure{gt_bullet.png}{options: style="width=100\%;"}}
+\if{html}{\figure{gt_bullet.png}{options: style="width:500px;"}}
 }
 
 \section{Function ID}{
@@ -57,16 +57,16 @@ bullet_tab <- tibble::rownames_to_column(mtcars) \%>\%
 }
 
 \seealso{
-Other Themes: 
-\code{\link{gt_plt_conf_int}()},
-\code{\link{gt_plt_dot}()},
-\code{\link{gt_theme_538}()},
-\code{\link{gt_theme_dark}()},
-\code{\link{gt_theme_dot_matrix}()},
-\code{\link{gt_theme_espn}()},
-\code{\link{gt_theme_excel}()},
-\code{\link{gt_theme_guardian}()},
-\code{\link{gt_theme_nytimes}()},
-\code{\link{gt_theme_pff}()}
+Other Themes:
+\code{\link[=gt_plt_conf_int]{gt_plt_conf_int()}},
+\code{\link[=gt_plt_dot]{gt_plt_dot()}},
+\code{\link[=gt_theme_538]{gt_theme_538()}},
+\code{\link[=gt_theme_dark]{gt_theme_dark()}},
+\code{\link[=gt_theme_dot_matrix]{gt_theme_dot_matrix()}},
+\code{\link[=gt_theme_espn]{gt_theme_espn()}},
+\code{\link[=gt_theme_excel]{gt_theme_excel()}},
+\code{\link[=gt_theme_guardian]{gt_theme_guardian()}},
+\code{\link[=gt_theme_nytimes]{gt_theme_nytimes()}},
+\code{\link[=gt_theme_pff]{gt_theme_pff()}}
 }
 \concept{Themes}

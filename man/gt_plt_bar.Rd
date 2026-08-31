@@ -51,7 +51,7 @@ gt_plt_bar_tab <- mtcars \%>\%
   gt_plt_bar(column = mpg, keep_column = TRUE)
 }\if{html}{\out{</div>}}
 
-\if{html}{\figure{gt_plt_bar.png}{options: style="width=100\%;"}}
+\if{html}{\figure{gt_plt_bar.png}{options: style="width:500px;"}}
 }
 
 \section{Function ID}{
@@ -60,13 +60,13 @@ gt_plt_bar_tab <- mtcars \%>\%
 }
 
 \seealso{
-Other Plotting: 
-\code{\link{gt_plt_bar_pct}()},
-\code{\link{gt_plt_bar_stack}()},
-\code{\link{gt_plt_dist}()},
-\code{\link{gt_plt_percentile}()},
-\code{\link{gt_plt_point}()},
-\code{\link{gt_plt_sparkline}()},
-\code{\link{gt_plt_winloss}()}
+Other Plotting:
+\code{\link[=gt_plt_bar_pct]{gt_plt_bar_pct()}},
+\code{\link[=gt_plt_bar_stack]{gt_plt_bar_stack()}},
+\code{\link[=gt_plt_dist]{gt_plt_dist()}},
+\code{\link[=gt_plt_percentile]{gt_plt_percentile()}},
+\code{\link[=gt_plt_point]{gt_plt_point()}},
+\code{\link[=gt_plt_sparkline]{gt_plt_sparkline()}},
+\code{\link[=gt_plt_winloss]{gt_plt_winloss()}}
 }
 \concept{Plotting}

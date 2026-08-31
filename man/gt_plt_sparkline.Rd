@@ -52,7 +52,7 @@ distributions (ie density/histograms) you can instead use: \code{gtExtras::gt_pl
 
 \section{Figures}{
 
-\if{html}{\figure{gt_plt_sparkline.png}{options: style="width=50\%;"}}
+\if{html}{\figure{gt_plt_sparkline.png}{options: style="width:500px;"}}
 }
 
 \section{Function ID}{
@@ -61,13 +61,13 @@ distributions (ie density/histograms) you can instead use: \code{gtExtras::gt_pl
 }
 
 \seealso{
-Other Plotting: 
-\code{\link{gt_plt_bar}()},
-\code{\link{gt_plt_bar_pct}()},
-\code{\link{gt_plt_bar_stack}()},
-\code{\link{gt_plt_dist}()},
-\code{\link{gt_plt_percentile}()},
-\code{\link{gt_plt_point}()},
-\code{\link{gt_plt_winloss}()}
+Other Plotting:
+\code{\link[=gt_plt_bar]{gt_plt_bar()}},
+\code{\link[=gt_plt_bar_pct]{gt_plt_bar_pct()}},
+\code{\link[=gt_plt_bar_stack]{gt_plt_bar_stack()}},
+\code{\link[=gt_plt_dist]{gt_plt_dist()}},
+\code{\link[=gt_plt_percentile]{gt_plt_percentile()}},
+\code{\link[=gt_plt_point]{gt_plt_point()}},
+\code{\link[=gt_plt_winloss]{gt_plt_winloss()}}
 }
 \concept{Plotting}

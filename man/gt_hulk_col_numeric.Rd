@@ -69,11 +69,11 @@ can indicate low or "bad" value, and green can indicate a high or "good" value.
 
 \section{Figures}{
 
-\if{html}{\figure{hulk_basic.png}{options: style="width=100\%;"}}
+\if{html}{\figure{hulk_basic.png}{options: style="width:500px;"}}
 
-\if{html}{\figure{hulk_trim.png}{options: style="width=100\%;"}}
+\if{html}{\figure{hulk_trim.png}{options: style="width:500px;"}}
 
-\if{html}{\figure{hulk_reverse.png}{options: style="width=100\%;"}}
+\if{html}{\figure{hulk_reverse.png}{options: style="width:500px;"}}
 }
 
 \section{Function ID}{
@@ -82,8 +82,8 @@ can indicate low or "bad" value, and green can indicate a high or "good" value.
 }
 
 \seealso{
-Other Colors: 
-\code{\link{gt_color_box}()},
-\code{\link{gt_color_rows}()}
+Other Colors:
+\code{\link[=gt_color_box]{gt_color_box()}},
+\code{\link[=gt_color_rows]{gt_color_rows()}}
 }
 \concept{Colors}

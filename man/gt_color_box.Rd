@@ -55,7 +55,7 @@ color_box_tab <- test_data \%>\%
 
 \section{Figures}{
 
-\if{html}{\figure{color_box.png}{options: style="width=30\%;"}}
+\if{html}{\figure{color_box.png}{options: style="width:500px;"}}
 }
 
 \section{Function ID}{
@@ -64,8 +64,8 @@ color_box_tab <- test_data \%>\%
 }
 
 \seealso{
-Other Colors: 
-\code{\link{gt_color_rows}()},
-\code{\link{gt_hulk_col_numeric}()}
+Other Colors:
+\code{\link[=gt_color_rows]{gt_color_rows()}},
+\code{\link[=gt_hulk_col_numeric]{gt_hulk_col_numeric()}}
 }
 \concept{Colors}

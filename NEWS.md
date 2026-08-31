@@ -1,11 +1,15 @@
+# gtExtras (development version)
+
+* Import and re-export the magrittr pipe, `%>%`, from magrittr rather than dplyr (#161).
+
 # gtExtras 0.6.1
 
 * Resolve issues with ggplot2 v4
 
 # gtExtras 0.6.0
 
-* Handle interquartile range of zero in `gt_plt_summary()` - [#104](https://github.com/jthomasmock/gtExtras/issues/104)  
-* Experimentally handle multiple types of plots in `gt_plt_dist()` - [#102](https://github.com/jthomasmock/gtExtras/issues/102)  
+* Handle interquartile range of zero in `gt_plt_summary()` - [#104](https://github.com/jthomasmock/gtExtras/issues/104)
+* Experimentally handle multiple types of plots in `gt_plt_dist()` - [#102](https://github.com/jthomasmock/gtExtras/issues/102)
 * Resolve issues with `gt_plt_summary()` - [#148](https://github.com/jthomasmock/gtExtras/issues/148) and [146](https://github.com/jthomasmock/gtExtras/issues/146)
 * Address test issues with svglite - [#147](https://github.com/jthomasmock/gtExtras/issues/147)
 * Remove deprecated fontawesome functions `gt_fa_repeats()`, and `gt_fa_column()` in favor of `gt` native functions.
